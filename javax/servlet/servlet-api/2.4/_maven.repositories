@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Dec 04 16:52:00 CST 2017
+servlet-api-2.4.jar>central=
+servlet-api-2.4.pom>central=
+servlet-api-2.4.pom>uk.maven.org=
+servlet-api-2.4.jar>uk.maven.org=

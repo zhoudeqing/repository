@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Dec 04 16:55:14 CST 2017
+default-http\://repo1.maven.org/maven2/.lastUpdated=1512375597625
+http\://uk.maven.org/maven2/.lastUpdated=1512377714092
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.codehaus.plexus\:plexus-archiver\:jar\:1.2 from/to central (http\://repo1.maven.org/maven2)\: No response received after 60000
