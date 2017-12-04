@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Dec 04 16:44:16 CST 2017
+http\://uk.maven.org/maven2/.lastUpdated=1512377056541
+https\://github.com/zhoudeqing/repository/.error=Could not transfer artifact org.springframework\:spring-jms\:pom\:3.1.0.RELEASE from/to nexus (https\://github.com/zhoudeqing/repository/)\: java.util.concurrent.TimeoutException\: No response received after 60000
+http\://repo1.maven.org/maven2/.lastUpdated=1512372944095
+default-https\://github.com/zhoudeqing/repository/.lastUpdated=1512377055953

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.singularsys</groupId>
+  <artifactId>singularsys-jep</artifactId>
+  <versioning>
+    <release>3.4-trial</release>
+    <versions>
+      <version>3.4-trial</version>
+    </versions>
+    <lastUpdated>20171204091625</lastUpdated>
+  </versioning>
+</metadata>

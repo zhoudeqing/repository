@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Dec 04 16:47:54 CST 2017
+http\://uk.maven.org/maven2/.lastUpdated=1512377274209
+https\://github.com/zhoudeqing/repository/.error=Could not transfer artifact org.apache.commons\:commons-parent\:pom\:12 from/to nexus (https\://github.com/zhoudeqing/repository/)\: java.util.concurrent.TimeoutException\: No response received after 60000
+http\://repo1.maven.org/maven2/.lastUpdated=1512373244208
+default-https\://github.com/zhoudeqing/repository/.lastUpdated=1512377273553
